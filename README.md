@@ -1,2 +1,3 @@
 # mastercoin
-# author by Feedbug77
+# author by feedbug77
+# created 8 april 2020
